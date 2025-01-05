@@ -25,4 +25,4 @@ Quiz and final project are also included
 
 ## Extra: Python cheatsheet
 
-![image](https://github.com/user-attachments/assets/d0fe65af-65ba-47a8-b7ef-6230f9ab5d92)
+![image](https://github.com/user-attachments/assets/41041dd6-f1f5-48b2-aff9-2a6aeacb6b95)
